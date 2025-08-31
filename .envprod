@@ -1,0 +1,16 @@
+# 部署者私钥
+PRIVATE_KEY=your_production_private_key_here
+
+# Conflux eSpace Mainnet RPC (示例，请替换为您的主网RPC)
+NEXT_PUBLIC_CONFLUX_RPC_URL=https://evm.confluxrpc.com
+NEXT_PUBLIC_CHAIN_ID=0x406
+NEXT_PUBLIC_CHAIN_NAME="Conflux eSpace Mainnet"
+NEXT_PUBLIC_BLOCK_EXPLORER_URL=https://evm.confluxscan.org
+
+# --- Production OrderBook Contract Addresses (部署后填写) ---
+NEXT_PUBLIC_FC_TOKEN_ADDRESS=0xba2289fee4673ef00ee8d8dae260965ab543b68f
+NEXT_PUBLIC_ORDERBOOK_CONTRACT_ADDRESS=0x1bFE38B6513125b32c7cFe0edd2f096f8b235CC2
+
+# --- Old Production Addresses (Archived) ---
+# NEXT_PUBLIC_ABC_TOKEN_ADDRESS=0x905f2202003453006eaf975699545f2e909079b8
+# NEXT_PUBLIC_EXCHANGE_CONTRACT_ADDRESS=...
